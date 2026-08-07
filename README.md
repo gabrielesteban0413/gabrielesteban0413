@@ -37,21 +37,3 @@
 
 ---
 
-## Actividad Reciente
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": { "repo": "landcover-ml", "fecha": "2025-03-20" },
-      "geometry": { "type": "Point", "coordinates": [-70.6483, -33.4569] }
-    },
-    {
-      "type": "Feature", 
-      "properties": { "repo": "coastal-dashboard", "fecha": "2025-03-18" },
-      "geometry": { "type": "Point", "coordinates": [-71.6167, -33.0333] }
-    }
-  ]
-}
