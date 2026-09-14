@@ -1,4 +1,4 @@
-# Gabriel Esteban Sanchez
+# Gabriel Esteban
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00C0C0&center=true&vCenter=true&width=600&lines=Geospatial+Systems;Desarrollador+GIS;Software+Architect" alt="Typing SVG" />
